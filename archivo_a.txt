@@ -1,0 +1,12 @@
+Creo una primera línea en archivo_a.txt
+Creo una segunda línea en el archivo_a.txt
+<<<<<<< HEAD
+Experimento añadiendo una nueva línea al archivo_a.txt en la
+rama experimento
+Añado uno segunda línea al archivo_a.txt en la rama master
+Añado una segunda línea al archivo_a.txt en la rama master
+=======
+Inserto una línea en el archivo_a.txt
+>>>>>>> pruebas
+Resuelvo el conflicto en esta primera línea del archivo_a.txt
+También modifico la segunda línea del archivo_a.txt
